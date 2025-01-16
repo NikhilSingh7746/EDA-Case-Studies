@@ -1,6 +1,6 @@
 # EDA-Case-Studies
 
-<h3>Exploratory Data Analysis (EDA) </h3> 
+<u><h3>Exploratory Data Analysis (EDA) </h3> </u>
 EDA is the process of analyzing datasets to summarize their main characteristics, identify patterns, detect anomalies, and extract insights, often using visualizations and statistical techniques.                       
 <br>
 <br>
